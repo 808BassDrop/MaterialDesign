@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/RazrabotkaMobilok/MaterialDesign/app/src/main/res/drawable/ic_baseline_sentiment_satisfied_alt_24.xml" value="0.342" />
         <entry key="..\:/RazrabotkaMobilok/MaterialDesign/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/RazrabotkaMobilok/MaterialDesign/app/src/main/res/layout/recycler_view_item.xml" value="0.3359375" />
       </map>
     </option>
   </component>
